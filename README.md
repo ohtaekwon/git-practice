@@ -9,4 +9,6 @@
 
 ## git의 사용
 
-![]()
+![git 사용](https://raw.githubusercontent.com/ohtaekwon/git-practice/master/img/git_01.png)
+
+- 위의 그림과 같이 일정부분에서 서로 다른 브랜치를 활용해보고, 커멘트의 색상을 바꿔가면서 적용하는 것이 분업에도 좋다
